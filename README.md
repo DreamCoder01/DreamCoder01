@@ -2,7 +2,6 @@
 - 👀 I’m interested in Full-Stack Development.
 - 🌱 I’m recently graduated from Tech Elevator's .NET bootcamp.
 - 💞️ I’m looking to collaborate on non-profit/open-source projects.
-- 📫 How to reach me samuel.clark.kent@gmail.com
 
 <!---
 DreamCoder01/DreamCoder01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
